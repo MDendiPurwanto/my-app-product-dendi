@@ -2,7 +2,7 @@
 Tugas Bootcamp React JS Batch 6 Edspert ID
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/MDendiPurwanto/my-app-product-dendi).
+This project was tailwindcss with [Create React App](https://github.com/MDendiPurwanto/my-app-product-dendi).
 
 ## Available Scripts
 
