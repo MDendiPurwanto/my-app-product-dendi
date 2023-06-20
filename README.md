@@ -34,4 +34,8 @@ See the section about [deployment](https://github.com/MDendiPurwanto/my-app-prod
 
 Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.!
+
+Hasil Tugas Bootcamp React JS Batch 6 Edspert ID
+[ssan tugas bootcamp](https://github.com/MDendiPurwanto/my-app-product-dendi/assets/104846996/c64a5d4a-df83-469b-8b42-b0c0afc31469)
+
